@@ -1,4 +1,5 @@
 
+# Zestaw_1 
 ## SQL. Tworzenie, aktualizacja oraz usuwanie tabel. Wstawianie, aktualizacja i usuwanie danych z tabeli
 
 ### Zadanie 1
@@ -64,3 +65,9 @@
 4. Wstaw 3 rekordy do tabeli `zadanie_has_status`.
 5. Usuń z tabeli `projekt` jeden projekt i sprawdź czy powiązane rekordy w tabeli `zadanie` również zostały usunięte.
 6. Usuń tabelę `sprint`.
+
+### Jak zapisywać?
+* w notatniku
+* dodajemy na github
+* Jak nazywać?
+  * `kwerendy_zestaw_x` - zamiast 'x' numer zestawu 
