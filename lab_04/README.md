@@ -29,10 +29,10 @@
 
 ### Zadanie 3
 
-1. Dodaj do `projekt` kolumnę `opis_kratki` – ciąg znaków, max. `50` znaków (może być `NULL`).
+1. Dodaj do `projekt` kolumnę `opis_projektu` – ciąg znaków, max. `50` znaków (może być `NULL`).
 2. Zmień typ tej kolumny na ciąg znaków, max. `200` znaków (rozszerzenie długości).
-3. Zaktualizuj kilka projektów, ustawiając w `opis_kratki` krótkie opisy (np. „MVP”, „pilne wdrożenie”).
-4. Usuń kolumnę `opis_kratki` z tabeli `projekt`.
+3. Zaktualizuj kilka projektów, ustawiając w `opis_projektu` krótkie opisy (np. „MVP”, „pilne wdrożenie”).
+4. Usuń kolumnę `opis_projektu` z tabeli `projekt`.
 
 ---
 
