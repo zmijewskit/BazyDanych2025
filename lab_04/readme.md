@@ -1,4 +1,5 @@
 # Bazy danych, informatyka, studia stacjonarne, semestr 2025Z
+# Zestaw 2
 
 ## SQL. Tworzenie, aktualizacja oraz usuwanie tabel. Wstawianie, aktualizacja i usuwanie danych z tabeli
 
