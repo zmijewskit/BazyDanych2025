@@ -1,3 +1,5 @@
+# Zestaw_3
+
 # Bazy danych, informatyka, studia stacjonarne, semestr 2025Z
 
 ## SQL. Zapytania SELECT – filtrowanie, sortowanie
@@ -57,4 +59,5 @@
    Dane posortuj **malejąco** (od Z do A) według skróconej nazwy.
 
 ---
+
 
