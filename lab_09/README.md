@@ -1,6 +1,6 @@
 # Zestaw_7
 
-# Bazy danych, informatyka, studia stacjonarne, semestr 2025Z
+# Bazy danych, informatyka, studia stacjonarne, semestr 2025Z 
 
 ## SQL. Funkcje okienkowe
 
